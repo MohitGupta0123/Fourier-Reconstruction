@@ -1,4 +1,3 @@
-```markdown
 # 🖼️ Image Grating Visualization and Reconstruction Tool
 
 A powerful and interactive web app for visualizing image transformations using gratings.  
@@ -81,4 +80,3 @@ If you find a bug or have a feature request, feel free to open an issue or submi
 ---
 
 Made with ❤️ by [Mohit Gupta]
-```
