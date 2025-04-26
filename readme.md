@@ -3,7 +3,7 @@
 A powerful and interactive web app for visualizing image transformations using gratings.  
 With this tool, you can see how individual gratings and their transformations contribute to the reconstruction of the original image — in real-time!
 
-> 🚀 Try the live app here: [View Demo](https://your-fake-deployment-link.com)
+> 🚀 Try the live app here: [View Demo](https://image-reconstruct-using-fourier.streamlit.app/)
 
 ---
 
@@ -75,7 +75,7 @@ If you find a bug or have a feature request, feel free to open an issue or submi
 ## 🔗 Links
 
 - Project Repository: [GitHub](https://github.com/MohitGupta0123/fourier-reconstruction)
-- Live Demo: [App Link](https://your-fake-deployment-link.com)
+- Live Demo: [App Link](https://image-reconstruct-using-fourier.streamlit.app/)
 
 ---
 
